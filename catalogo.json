@@ -21,12 +21,14 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/setup"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",
         "arquivo": "FR-GRA-001-0.1.0.zip",
-        "estado": "nao_empacotado"
+        "estado": "empacotado_para_teste",
+        "path": "entregas/FR-GRA-001-0.1.0.zip",
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/raw/refs/heads/main/entregas/FR-GRA-001-0.1.0.zip"
       },
       "licenca": "CC-BY-4.0",
       "criterio_aceite": "Contexto preenchido e primeira tarefa conferida",
@@ -50,12 +52,14 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/mapa"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",
         "arquivo": "FR-GRA-002-0.1.0.zip",
-        "estado": "nao_empacotado"
+        "estado": "empacotado_para_teste",
+        "path": "entregas/FR-GRA-002-0.1.0.zip",
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/raw/refs/heads/main/entregas/FR-GRA-002-0.1.0.zip"
       },
       "licenca": "CC-BY-4.0",
       "criterio_aceite": "Problema convertido em jornada com entradas e saída",
@@ -79,12 +83,14 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/teste"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",
         "arquivo": "FR-GRA-003-0.1.0.zip",
-        "estado": "nao_empacotado"
+        "estado": "empacotado_para_teste",
+        "path": "entregas/FR-GRA-003-0.1.0.zip",
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/raw/refs/heads/main/entregas/FR-GRA-003-0.1.0.zip"
       },
       "licenca": "CC-BY-4.0",
       "criterio_aceite": "Saída revisada com evidência e pendências",
@@ -108,12 +114,14 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/agenda"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",
         "arquivo": "FR-GRA-004-0.1.0.zip",
-        "estado": "nao_empacotado"
+        "estado": "empacotado_para_teste",
+        "path": "entregas/FR-GRA-004-0.1.0.zip",
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/raw/refs/heads/main/entregas/FR-GRA-004-0.1.0.zip"
       },
       "licenca": "CC-BY-4.0",
       "criterio_aceite": "Jornada de agendamento desenhada e testada no papel",
@@ -137,7 +145,7 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/pdf"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",
@@ -166,7 +174,7 @@
       },
       "publicacao": {
         "aprovada": true,
-        "url": null
+        "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/ferramentas"
       },
       "entrega": {
         "canal": "link por DM solicitada ou download",

@@ -16,12 +16,14 @@
   },
   "publicacao": {
     "aprovada": true,
-    "url": null
+    "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/tree/main/produtos/setup"
   },
   "entrega": {
     "canal": "link por DM solicitada ou download",
     "arquivo": "FR-GRA-001-0.1.0.zip",
-    "estado": "nao_empacotado"
+    "estado": "empacotado_para_teste",
+    "path": "entregas/FR-GRA-001-0.1.0.zip",
+    "url": "https://github.com/pedropauloangarita-ship-it/fronteira-kits/raw/refs/heads/main/entregas/FR-GRA-001-0.1.0.zip"
   },
   "licenca": "CC-BY-4.0",
   "criterio_aceite": "Contexto preenchido e primeira tarefa conferida",
