@@ -1,0 +1,29 @@
+{
+  "sku": "FR-GRA-006",
+  "palavra_chave": "FERRAMENTAS",
+  "nome": "Ferramentas de IA para tarefas reais",
+  "publico": "iniciante",
+  "camada": "gratuito",
+  "resultado": "Escolha de ferramenta com custo e teste conhecidos",
+  "estado": "planejado",
+  "versao": "0.1.0",
+  "repositorio": "fronteira-kits",
+  "path": "produtos/ferramentas",
+  "preco": {
+    "estado": "gratuito",
+    "valor": 0,
+    "moeda": "BRL"
+  },
+  "publicacao": {
+    "aprovada": true,
+    "url": null
+  },
+  "entrega": {
+    "canal": "link por DM solicitada ou download",
+    "arquivo": "FR-GRA-006-0.1.0.zip",
+    "estado": "nao_empacotado"
+  },
+  "licenca": "CC-BY-4.0",
+  "criterio_aceite": "Escolha de ferramenta com custo e teste conhecidos",
+  "proximo_gate": "Definir e produzir entrega"
+}

@@ -1,0 +1,29 @@
+{
+  "sku": "FR-GRA-003",
+  "palavra_chave": "TESTE",
+  "nome": "Confira a entrega da IA",
+  "publico": "iniciante",
+  "camada": "gratuito",
+  "resultado": "Saída revisada com evidência e pendências",
+  "estado": "semente",
+  "versao": "0.1.0",
+  "repositorio": "fronteira-kits",
+  "path": "produtos/teste",
+  "preco": {
+    "estado": "gratuito",
+    "valor": 0,
+    "moeda": "BRL"
+  },
+  "publicacao": {
+    "aprovada": true,
+    "url": null
+  },
+  "entrega": {
+    "canal": "link por DM solicitada ou download",
+    "arquivo": "FR-GRA-003-0.1.0.zip",
+    "estado": "nao_empacotado"
+  },
+  "licenca": "CC-BY-4.0",
+  "criterio_aceite": "Saída revisada com evidência e pendências",
+  "proximo_gate": "Teste com usuario e revisao editorial"
+}

@@ -1,0 +1,181 @@
+{
+  "schema_versao": "1.0",
+  "atualizado_em": "2026-10-06",
+  "quantidade": 6,
+  "produtos": [
+    {
+      "sku": "FR-GRA-001",
+      "palavra_chave": "SETUP",
+      "nome": "Contexto para seu assistente",
+      "publico": "iniciante",
+      "camada": "gratuito",
+      "resultado": "Contexto preenchido e primeira tarefa conferida",
+      "estado": "semente",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/setup",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-001-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Contexto preenchido e primeira tarefa conferida",
+      "proximo_gate": "Teste com usuario e revisao editorial"
+    },
+    {
+      "sku": "FR-GRA-002",
+      "palavra_chave": "MAPA",
+      "nome": "Escolha sua primeira automação",
+      "publico": "iniciante e dono",
+      "camada": "gratuito",
+      "resultado": "Problema convertido em jornada com entradas e saída",
+      "estado": "semente",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/mapa",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-002-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Problema convertido em jornada com entradas e saída",
+      "proximo_gate": "Teste com usuario e revisao editorial"
+    },
+    {
+      "sku": "FR-GRA-003",
+      "palavra_chave": "TESTE",
+      "nome": "Confira a entrega da IA",
+      "publico": "iniciante",
+      "camada": "gratuito",
+      "resultado": "Saída revisada com evidência e pendências",
+      "estado": "semente",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/teste",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-003-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Saída revisada com evidência e pendências",
+      "proximo_gate": "Teste com usuario e revisao editorial"
+    },
+    {
+      "sku": "FR-GRA-004",
+      "palavra_chave": "AGENDA",
+      "nome": "Desenhe agendamento no WhatsApp",
+      "publico": "dono de negócio",
+      "camada": "gratuito",
+      "resultado": "Jornada de agendamento desenhada e testada no papel",
+      "estado": "semente",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/agenda",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-004-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Jornada de agendamento desenhada e testada no papel",
+      "proximo_gate": "Teste com usuario e revisao editorial"
+    },
+    {
+      "sku": "FR-GRA-005",
+      "palavra_chave": "PDF",
+      "nome": "Prepare fontes para sua IA",
+      "publico": "iniciante",
+      "camada": "gratuito",
+      "resultado": "Fonte convertida e conferida",
+      "estado": "planejado",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/pdf",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-005-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Fonte convertida e conferida",
+      "proximo_gate": "Definir e produzir entrega"
+    },
+    {
+      "sku": "FR-GRA-006",
+      "palavra_chave": "FERRAMENTAS",
+      "nome": "Ferramentas de IA para tarefas reais",
+      "publico": "iniciante",
+      "camada": "gratuito",
+      "resultado": "Escolha de ferramenta com custo e teste conhecidos",
+      "estado": "planejado",
+      "versao": "0.1.0",
+      "repositorio": "fronteira-kits",
+      "path": "produtos/ferramentas",
+      "preco": {
+        "estado": "gratuito",
+        "valor": 0,
+        "moeda": "BRL"
+      },
+      "publicacao": {
+        "aprovada": true,
+        "url": null
+      },
+      "entrega": {
+        "canal": "link por DM solicitada ou download",
+        "arquivo": "FR-GRA-006-0.1.0.zip",
+        "estado": "nao_empacotado"
+      },
+      "licenca": "CC-BY-4.0",
+      "criterio_aceite": "Escolha de ferramenta com custo e teste conhecidos",
+      "proximo_gate": "Definir e produzir entrega"
+    }
+  ]
+}

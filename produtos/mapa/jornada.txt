@@ -1,0 +1,11 @@
+Tarefa e pessoa que executa:
+Entrada e fonte:
+Passos atuais:
+Regras verificáveis:
+Decisões humanas:
+Saída e destino:
+Exceções e responsável:
+Teste válido:
+Teste incompleto:
+Teste duplicado:
+Como conferir:

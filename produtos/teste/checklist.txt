@@ -1,0 +1,10 @@
+Pedido original atendido:
+Todos os registros presentes, sem duplicação:
+Números conferidos na fonte:
+Fatos separados de hipóteses:
+Ausências mostradas:
+Decisões humanas respeitadas:
+Erro proposital encontrado:
+Correção conferida:
+Responsável e pendências:
+Para cada linha: PASS / FALHA / NÃO AVALIADO + evidência.

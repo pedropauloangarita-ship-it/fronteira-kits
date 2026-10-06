@@ -1,0 +1,29 @@
+{
+  "sku": "FR-GRA-002",
+  "palavra_chave": "MAPA",
+  "nome": "Escolha sua primeira automação",
+  "publico": "iniciante e dono",
+  "camada": "gratuito",
+  "resultado": "Problema convertido em jornada com entradas e saída",
+  "estado": "semente",
+  "versao": "0.1.0",
+  "repositorio": "fronteira-kits",
+  "path": "produtos/mapa",
+  "preco": {
+    "estado": "gratuito",
+    "valor": 0,
+    "moeda": "BRL"
+  },
+  "publicacao": {
+    "aprovada": true,
+    "url": null
+  },
+  "entrega": {
+    "canal": "link por DM solicitada ou download",
+    "arquivo": "FR-GRA-002-0.1.0.zip",
+    "estado": "nao_empacotado"
+  },
+  "licenca": "CC-BY-4.0",
+  "criterio_aceite": "Problema convertido em jornada com entradas e saída",
+  "proximo_gate": "Teste com usuario e revisao editorial"
+}

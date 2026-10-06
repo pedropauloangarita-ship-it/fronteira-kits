@@ -1,0 +1,10 @@
+Serviço:
+Campos mínimos:
+Fonte de disponibilidade:
+Quem confirma a reserva:
+Texto antes da confirmação:
+Texto depois da confirmação:
+Tratamento de conflito:
+Tratamento de falha:
+Responsável humano:
+Três testes e suas saídas:
